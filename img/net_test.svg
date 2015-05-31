@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Title: 1. C:\Users\MárioScaglionejujuni\Desktop\W&#38;J\Spring\Networking\HW4\HW4_mscaglione.net [2-Mode] (48) -->
+<!-- Creator: Pajek: http://pajek.imfm.si/doku.php?id=history -->
+<!-- CreationDate: 05-29-2015, 20:30:17 -->
+<svg xml:space="preserve" viewBox="0 0 1364 728" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<title>1. C:\Users\MárioScaglionejujuni\Desktop\W&#38;J\Spring\Networking\HW4\HW4_mscaglione.net [2-Mode] (48)</title>
+<g inkscape:groupmode="layer" id="PajekSig" inkscape:label="PajekSignature">
+<g transform="translate(3 710)">
+<g transform="scale(0.1)">
+<g transform="matrix(1 0 0 -1 0 96)">
+<path d="M   7.67  49.98 L  31.76  72.76 L  46.91  78.63
+         L  57.23  80.49 M  72.86  65.23 L  65.73  83.25
+         L  57.06  75.49 L  56.75  68.65 M  76.27  68.03
+         L  75.65  84.50 L  93.92  91.02 L 107.24  74.87
+         M  80.29  67.72 L  89.28  84.81 L 104.77  81.70
+         L 116.23  73.31 L 121.18  59.33 M  56.75  81.08
+         L  71.31  64.30"
+         style="fill:none; stroke:black; stroke-width:5;"/>
+<path d="M  86.18  70.21 L  91.45  73.00 L  95.78  69.58
+         M  91.14  60.88 L  96.09  62.75 L  98.26  59.33"
+         style="fill:none; stroke:black; stroke-width:1.5;"/>
+<path d="M  81.07  49.08 L  87.81  49.08 L  93.30  54.38
+         L  93.30  60.88 L  93.30  67.39 L  87.81  72.69
+         L  81.07  72.69 L  74.33  72.69 L  68.83  67.39
+         L  68.83  60.88 L  68.83  54.38 L  74.33  49.08
+         L  81.07  49.08 z"
+         style="fill:gray; stroke:black; stroke-width:1;"/>
+<path d="M  54.63  37.53 L  68.53  43.56 L  75.39  55.85
+         L  69.90  65.35 L  64.41  72.86 L  48.60  74.06
+         L  34.71  68.04 L  20.81  55.02 L  15.95  40.72
+         L  17.44  33.22 L  24.92  28.72 L  40.73  30.51
+         L  54.63  37.53 z"
+         style="fill:gray; stroke:black; stroke-width:1;" />
+<path d="M  77.82  50.63 L 103.84  59.33 L 131.10  43.80
+         L 139.46  27.95 L 139.15  15.83 M  35.99   5.27
+         L  47.15  32.92 L  61.71  50.01 L  70.07  46.90
+         L  82.77  45.04 L  83.39  27.02 L  65.42  12.11
+         M  68.52  50.63 L  91.14  49.39 L 103.53  43.17
+         L 117.16  22.67 L 115.30   8.38"
+         style="fill:none; stroke:black; stroke-width:5;"/>
+<path d="M  41.57  54.98 L  60.16  64.61 M  52.41  66.17
+         L  57.99  57.47"
+         style="fill:none; stroke:white; stroke-width:5;"/>
+</g>
+</g>
+<animateMotion dur="20s" path="M3 0 L1346 0" begin="120s" fill="freeze"/>
+</g>
+<g transform="translate(3 710)">
+<g transform="scale(0.1)">
+<text x="5" y="140" style="font-family:Arial;font-size:55px;fill:red;">Pajek</text>
+</g>
+<animateMotion dur="0.1s" path="M3 0 L1346 0" begin="120s" fill="freeze"/>
+</g>
+</g>      <!-- Layer Signature -->
+
+<g inkscape:groupmode="layer" id="PajekNet" inkscape:label="PajekNetwork">
+
+<!-- Edge:     2   26 -->
+<line x1="653.66" y1="483.50" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   34 -->
+<line x1="653.66" y1="483.50" x2="605.46" y2="558.22" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   35 -->
+<line x1="653.66" y1="483.50" x2="679.30" y2="563.94" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   36 -->
+<line x1="653.66" y1="483.50" x2="527.56" y2="510.59" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   37 -->
+<line x1="653.66" y1="483.50" x2="724.33" y2="524.78" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   38 -->
+<line x1="653.66" y1="483.50" x2="779.87" y2="542.98" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   39 -->
+<line x1="653.66" y1="483.50" x2="779.95" y2="469.25" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     3   26 -->
+<line x1="485.77" y1="357.01" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     3   31 -->
+<line x1="485.77" y1="357.01" x2="351.40" y2="316.44" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     4   39 -->
+<line x1="715.79" y1="384.41" x2="779.95" y2="469.25" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     4   26 -->
+<line x1="715.79" y1="384.41" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     4   40 -->
+<line x1="715.79" y1="384.41" x2="757.39" y2="288.77" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    20   26 -->
+<line x1="673.56" y1="447.19" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    20   39 -->
+<line x1="673.56" y1="447.19" x2="779.95" y2="469.25" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    20   37 -->
+<line x1="673.56" y1="447.19" x2="724.33" y2="524.78" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    12   26 -->
+<line x1="475.21" y1="437.45" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    12   32 -->
+<line x1="475.21" y1="437.45" x2="314.31" y2="427.65" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    12   36 -->
+<line x1="475.21" y1="437.45" x2="527.56" y2="510.59" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    12   41 -->
+<line x1="475.21" y1="437.45" x2="394.61" y2="479.94" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    12   42 -->
+<line x1="475.21" y1="437.45" x2="434.29" y2="515.73" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    15   26 -->
+<line x1="745.72" y1="345.57" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    15   27 -->
+<line x1="745.72" y1="345.57" x2="904.32" y2="324.32" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    14   26 -->
+<line x1="789.38" y1="360.76" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    14   27 -->
+<line x1="789.38" y1="360.76" x2="904.32" y2="324.32" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    14   43 -->
+<line x1="789.38" y1="360.76" x2="916.33" y2="398.83" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    14   44 -->
+<line x1="789.38" y1="360.76" x2="820.03" y2="278.66" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    21   26 -->
+<line x1="641.50" y1="318.94" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    21   45 -->
+<line x1="641.50" y1="318.94" x2="636.68" y2="231.13" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    11   26 -->
+<line x1="577.29" y1="428.15" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    22   26 -->
+<line x1="541.84" y1="332.97" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    22   46 -->
+<line x1="541.84" y1="332.97" x2="470.31" y2="255.61" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    23   26 -->
+<line x1="588.16" y1="317.65" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    23   47 -->
+<line x1="588.16" y1="317.65" x2="549.58" y2="233.90" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    24   26 -->
+<line x1="542.46" y1="389.32" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    25   26 -->
+<line x1="742.45" y1="426.88" x2="649.62" y2="396.10" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    25   48 -->
+<line x1="742.45" y1="426.88" x2="879.47" y2="478.54" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     8   33 -->
+<line x1="189.77" y1="460.52" x2="60.63" y2="448.65" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     8   32 -->
+<line x1="189.77" y1="460.52" x2="314.31" y2="427.65" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     7   33 -->
+<line x1="176.55" y1="413.64" x2="60.63" y2="448.65" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     7   32 -->
+<line x1="176.55" y1="413.64" x2="314.31" y2="427.65" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    10   32 -->
+<line x1="251.63" y1="504.45" x2="314.31" y2="427.65" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     6   32 -->
+<line x1="244.53" y1="358.63" x2="314.31" y2="427.65" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     6   31 -->
+<line x1="244.53" y1="358.63" x2="351.40" y2="316.44" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     5   31 -->
+<line x1="267.98" y1="251.93" x2="351.40" y2="316.44" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    16   27 -->
+<line x1="1031.65" y1="290.77" x2="904.32" y2="324.32" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    16   28 -->
+<line x1="1031.65" y1="290.77" x2="1157.44" y2="260.83" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    17   28 -->
+<line x1="1278.89" y1="308.07" x2="1157.44" y2="260.83" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    18   28 -->
+<line x1="1180.49" y1="182.04" x2="1157.44" y2="260.83" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    18   29 -->
+<line x1="1180.49" y1="182.04" x2="1303.37" y2="157.74" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    19   28 -->
+<line x1="1268.13" y1="226.00" x2="1157.44" y2="260.83" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    19   29 -->
+<line x1="1268.13" y1="226.00" x2="1303.37" y2="157.74" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    13   30 -->
+<line x1="504.92" y1="539.10" x2="519.13" y2="474.83" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+
+<!-- Vertex:     1 -->
+<ellipse cx="574.47" cy="470.98" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="577.31" y="481.61" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Anthony Kiedis</text>
+<!-- Vertex:     2 -->
+<ellipse cx="653.66" cy="483.50" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="656.50" y="494.12" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Flea</text>
+<!-- Vertex:     3 -->
+<ellipse cx="485.77" cy="357.01" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="488.62" y="367.64" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Chad Smith</text>
+<!-- Vertex:     4 -->
+<ellipse cx="715.79" cy="384.41" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="718.64" y="395.03" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Josh Klinghofer</text>
+<!-- Vertex:     5 -->
+<ellipse cx="267.98" cy="251.93" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="270.83" y="262.56" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Sammy Hagar</text>
+<!-- Vertex:     6 -->
+<ellipse cx="244.53" cy="358.63" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="247.37" y="369.26" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Joe Satriani</text>
+<!-- Vertex:     7 -->
+<ellipse cx="176.55" cy="413.64" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="179.40" y="424.26" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Ian Giltan</text>
+<!-- Vertex:     8 -->
+<ellipse cx="189.77" cy="460.52" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="192.62" y="471.15" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Don Airey</text>
+<!-- Vertex:     9 -->
+<ellipse cx="317.60" cy="587.74" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="320.44" y="598.37" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Ozzy Osbourne</text>
+<!-- Vertex:    10 -->
+<ellipse cx="251.63" cy="504.45" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="254.48" y="515.08" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">David Coverdable</text>
+<!-- Vertex:    11 -->
+<ellipse cx="577.29" cy="428.15" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="580.13" y="438.78" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Jack Sherman</text>
+<!-- Vertex:    12 -->
+<ellipse cx="475.21" cy="437.45" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="478.06" y="448.08" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Dave Navarro</text>
+<!-- Vertex:    13 -->
+<ellipse cx="504.92" cy="539.10" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="507.77" y="549.73" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Axl Rose</text>
+<!-- Vertex:    14 -->
+<ellipse cx="789.38" cy="360.76" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="792.22" y="371.39" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Jack Irons</text>
+<!-- Vertex:    15 -->
+<ellipse cx="745.72" cy="345.57" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="748.56" y="356.20" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Hillel Slovak</text>
+<!-- Vertex:    16 -->
+<ellipse cx="1031.65" cy="290.77" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="1034.49" y="301.40" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Alain Johannes</text>
+<!-- Vertex:    17 -->
+<ellipse cx="1278.89" cy="308.07" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="1281.74" y="318.69" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Alex Turner</text>
+<!-- Vertex:    18 -->
+<ellipse cx="1180.49" cy="182.04" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="1183.34" y="192.66" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Miles Kane</text>
+<!-- Vertex:    19 -->
+<ellipse cx="1268.13" cy="226.00" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="1270.97" y="236.63" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Math Helders</text>
+<!-- Vertex:    20 -->
+<ellipse cx="673.56" cy="447.19" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="676.40" y="457.82" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">John Frusciante</text>
+<!-- Vertex:    21 -->
+<ellipse cx="641.50" cy="318.94" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="644.35" y="329.57" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Cliff Martinez</text>
+<!-- Vertex:    22 -->
+<ellipse cx="541.84" cy="332.97" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="544.69" y="343.60" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">DH Peligro</text>
+<!-- Vertex:    23 -->
+<ellipse cx="588.16" cy="317.65" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="591.00" y="328.27" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">DeWayne McKnight</text>
+<!-- Vertex:    24 -->
+<ellipse cx="542.46" cy="389.32" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="545.31" y="399.95" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Arik Marshall</text>
+<!-- Vertex:    25 -->
+<ellipse cx="742.45" cy="426.88" rx="14.40" ry="14.40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="745.30" y="437.50" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Jesse Tobias</text>
+<!-- Vertex:    26 -->
+<g transform="translate(649.62 396.10)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="652.47" y="406.73" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">RHCP</text>
+<!-- Vertex:    27 -->
+<g transform="translate(904.32 324.32)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="907.17" y="334.95" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">What is this?</text>
+<!-- Vertex:    28 -->
+<g transform="translate(1157.44 260.83)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="1160.28" y="271.46" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Artic Monkeys</text>
+<!-- Vertex:    29 -->
+<g transform="translate(1303.37 157.74)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="1306.22" y="168.37" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">The Last Shadows Puppets</text>
+<!-- Vertex:    30 -->
+<g transform="translate(519.13 474.83)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="521.98" y="485.45" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Guns n Roses</text>
+<!-- Vertex:    31 -->
+<g transform="translate(351.40 316.44)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="354.25" y="327.06" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Chicken Foot</text>
+<!-- Vertex:    32 -->
+<g transform="translate(314.31 427.65)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="317.16" y="438.27" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Deep Purple</text>
+<!-- Vertex:    33 -->
+<g transform="translate(60.63 448.65)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="63.48" y="459.27" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Black Sabbath</text>
+<!-- Vertex:    34 -->
+<g transform="translate(605.46 558.22)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="608.31" y="568.84" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Atoms for Peace</text>
+<!-- Vertex:    35 -->
+<g transform="translate(679.30 563.94)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="682.14" y="574.57" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Antemasque</text>
+<!-- Vertex:    36 -->
+<g transform="translate(527.56 510.59)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="530.41" y="521.21" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Jane&#39;s Addiction</text>
+<!-- Vertex:    37 -->
+<g transform="translate(724.33 524.78)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="727.18" y="535.40" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">The Mars Volta</text>
+<!-- Vertex:    38 -->
+<g transform="translate(779.87 542.98)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="782.72" y="553.61" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Axis of Justice</text>
+<!-- Vertex:    39 -->
+<g transform="translate(779.95 469.25)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="782.79" y="479.87" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Ataxia</text>
+<!-- Vertex:    40 -->
+<g transform="translate(757.39 288.77)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="760.23" y="299.40" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Dot Hacker</text>
+<!-- Vertex:    41 -->
+<g transform="translate(394.61 479.94)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="397.46" y="490.56" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Deconstruction</text>
+<!-- Vertex:    42 -->
+<g transform="translate(434.29 515.73)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="437.14" y="526.35" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">The Panic Channel</text>
+<!-- Vertex:    43 -->
+<g transform="translate(916.33 398.83)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="919.17" y="409.45" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Pearl Jam</text>
+<!-- Vertex:    44 -->
+<g transform="translate(820.03 278.66)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="822.88" y="289.29" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Eleven</text>
+<!-- Vertex:    45 -->
+<g transform="translate(636.68 231.13)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="639.53" y="241.75" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">The Dickies</text>
+<!-- Vertex:    46 -->
+<g transform="translate(470.31 255.61)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="473.15" y="266.23" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Dead Kennedys</text>
+<!-- Vertex:    47 -->
+<g transform="translate(549.58 233.90)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="552.42" y="244.52" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">The Headhunters</text>
+<!-- Vertex:    48 -->
+<g transform="translate(879.47 478.54)">
+<path d="M -14.40 -14.40 L 14.40 -14.40 L 14.40 14.40 L -14.40 14.40 z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+</g>
+<text x="882.32" y="489.16" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Morissey</text>
+</g>         <!-- Layer Network -->
+</svg>
