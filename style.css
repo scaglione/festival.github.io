@@ -4,7 +4,49 @@
 	
 	padding: 1%;
 	text-align: center;
+	border-radius: 0.5%;
+	background-image: url("img/art.jpg");
+    background: rgb(255,0,0,0.4);
+
+
+}
+h1
+{
+	color: #571E34;
+}
+
+#logo, #logo2
+{
+	text-align: right;
+	height: 15%;
+}
+
+#logo
+{
+	margin-right: 3%;
+}
+#logo2 img
+{
+	width: 14%;
+	float: right;
+
+}
+#logo img
+{width: 15%;
+}
+p
+{
+	font-family: 'Trebuchet MS', 'Trebuchet', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
+	padding: 1%;
+	text-align: center;
 	border-radius: 1px;
+}
+h2
+{font-family: 'Trebuchet MS', 'Trebuchet', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
+	
+	text-align: center;
+	border-radius: 1px;
+	font-size: 90%;
 }
 
 #home, #event-info, #event-his, #event-number, #contact
@@ -21,12 +63,56 @@
   border-bottom: solid 2px purple;
   border-top: solid 2px purple;
 }
-h2
+#net, #net_2
 {
-	font-size: 90%;
+	width: 48%;
+	border: solid 2px #ff9900;
+	border-radius: 2%;
+	float: left;
+	text-align: center;
+	padding-top: 1%;
+	cursor: pointer;
+}
+#net:hover
+{
+	opacity: 0.5;
+}
+#net_2:hover
+{opacity: 0.5;}
+#net_2
+{
+	margin-left: 2%;
+
 }
 body
 {
 	width: 90%;
 	margin: 3%;
+}
+.title
+{ 
+font-family: 'Trebuchet MS', 'Trebuchet', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
+margin: 1%;
+margin-top:3%;
+font-size: 150%;
+
+}
+.title:hover
+{
+	color: orange;
+}
+@media screen and (max-width: 720px) {
+#net, #net_2
+{
+	width: 100%;
+	border: solid 2px #ff9900;
+	border-radius: 2%;
+	clear: both;
+}
+#net
+{margin-left: 2%;}
+#net_2
+{
+	margin-top: 2%;
+}
 }
