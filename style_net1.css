@@ -1,3 +1,4 @@
+
 a:link, a:visited {
 	text-decoration: none
 	}
@@ -14,11 +15,12 @@ a:link, a:visited {
 
 }
 h1
-{
+{	font-family: 'Trebuchet MS', 'Trebuchet', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
+
 	color: #571E34;
 }
 
-#logo, #logo2, #logo3
+#logo, #logo2
 {
 	text-align: right;
 	height: 15%;
@@ -27,13 +29,6 @@ h1
 #logo
 {
 	margin-right: 3%;
-}
-#logo3 img
-{
-	float: right;
-	width: 6%;
-	padding-left: 1%;
-	padding-top: 1%;
 }
 #logo2 img
 {
@@ -82,14 +77,25 @@ h2
 	text-align: center;
 	padding-top: 1%;
 	cursor: pointer;
-	height: 24em;
+	height: 30em;
 }
-#net:hover
+.answer, #why
 {
-	opacity: 0.5;
+		font-family: 'Trebuchet MS', 'Trebuchet', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
+		margin:1%;
 }
-#net_2:hover
-{opacity: 0.5;}
+
+#net_2
+{
+	/*height: 8em;*/
+}
+
+.question
+{
+	font-family: 'Trebuchet MS', 'Trebuchet', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
+	margin: 1.5%;
+	color: blue;
+}
 #net_2
 {
 	margin-left: 2%;
@@ -108,29 +114,13 @@ margin-top:3%;
 font-size: 150%;
 
 }
-.title:hover
-{
-	color: orange;
+#test img {
+    height: auto;
+    max-width: 100%;
 }
-#social 
-{
-	text-align: center;
-	color: purple;
-	background-color: orange;
-	
+#test img.expanded {
+    max-width: none;
 }
-#face, #camera, #youtube, #twitter
-{
-	float: left;
-	text-align: center;
-
-	padding: 1%;
-	padding-top: 2%;
-}
-#face
-{	padding-left: 34%;
-}
-
 @media screen and (max-width: 720px) {
 #net, #net_2
 {
@@ -145,10 +135,7 @@ font-size: 150%;
 {
 	margin-top: 2%;
 }
-#logo3
-{
-	width: 8%;
-}
+
 .question
 {
 
@@ -158,5 +145,5 @@ font-family: 'Trebuchet MS', 'Trebuchet', 'Lucida Sans Unicode', 'Lucida Grande'
 #why 
 {font-family: 'Trebuchet MS', 'Trebuchet', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
 
-
+	
 }
